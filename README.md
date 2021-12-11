@@ -89,3 +89,12 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+## Notes About Project
+
+- Guaged what I know so far, learning what I need to imrpove upon
+- Worked on my HTML/CSS skills
+- Learned how to mockup specific details pertaining to a design, attempting to build the component directly to match the design given
+- Still have a lot to learn and much to improve upon
+
+**Marz**
